@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[auq:home|Door43 (auq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-auq|d43-auq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-auq/archive/master.zip|d43-auq.zip]]
+
+**Recent Changes**
+{{changes>ns = auq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/auq|Ethnologue data]]
+
